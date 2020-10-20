@@ -1,4 +1,3 @@
 FROM sxc654/docker-java:openjre8
 
-RUN apk update && \
-    apk add --no-cache fontconfig ttf-dejavu
+RUN apk add --no-cache ttf-dejavu fontconfig
