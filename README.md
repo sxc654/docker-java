@@ -1,3 +1,3 @@
 # docker-java
 
- 基于dockerhub自动构建java基础镜像
+ 构建java基础环境镜像
